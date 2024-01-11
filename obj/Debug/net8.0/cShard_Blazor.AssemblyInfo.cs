@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cShard_Blazor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e01a2ecd989cde90d1f0c982ed1b580f042e95f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8db2f5bc4f5b00a5a918a7beac9a61760edf8e78")]
 [assembly: System.Reflection.AssemblyProductAttribute("cShard_Blazor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cShard_Blazor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
